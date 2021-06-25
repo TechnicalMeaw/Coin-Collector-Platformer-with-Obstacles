@@ -4,8 +4,10 @@
 - Has paralax background scrolling effect.
 - Implemented triggers with the help of C#.
 - Implemented unity particle system.
+- Implemented player animation transition states.
+- Implemented main menu(Game starting), pause menu(Esc button), winning menu and loosing menu.
 - The player can be controlled by arrow keys or standerd "ASWD" keys.
-- Implemented photoshoped animated moving enemies.
+- Implemented animated(photoshoped) moving enemies.
 - By default player has 2 lifes.
 - 1 life is deducted when player hits an enemy and then enemy dissolves.
 - The player looses when all lifes are deducted or player falls from any lowest platform.
