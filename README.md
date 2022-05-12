@@ -14,7 +14,7 @@
 - It has 3 levels and all levels are unlocked by default.
 - Has coin collection feature with audio feedback and coin is counted when collected.
 - Has Original background music.
-- 
+ 
 
 ## Demo
 
